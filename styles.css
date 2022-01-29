@@ -1,0 +1,30 @@
+body{
+    background: #544b44;
+  }
+  .container{
+    max-width: 400px;
+  }
+  input[type=text],
+  input[type=text]:focus{
+    color: #fff;
+    border: none;
+    background: rgba(0,0,0,0.2);
+    max-width: 400px;
+  }
+  .todos li{
+    background: #C17F34;
+  }
+  .delete{
+    cursor: pointer;
+  }
+.check{
+    cursor: pointer;
+  }
+.checkPropriedades{
+    text-decoration: line-through;
+    color:#544b44;
+  }
+
+.filtered{
+    display: none!important;
+}
