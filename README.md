@@ -24,6 +24,10 @@ Yet another to-do app. This was **my very first JavaScript project!**
 I must say that this project was really helpful. Not only did it provide me with some insights into vanilla ES6 javascript, it also forced me to research and debug on my own.
 
 Futhermore, this application makes use of one of the most known front end frameworks: Bootstrap.
+
+### Features
+Filtering, Deleting, Adding, Underlining
+
 <p align="center">
 <img  width="auto" height="auto" src="./img/1.png"  />
 
