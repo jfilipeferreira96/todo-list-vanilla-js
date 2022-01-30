@@ -29,7 +29,7 @@ Futhermore, this application makes use of one of the most known front end framew
 Filtering, Deleting, Adding, Underlining
 
 <p align="center">
-<img  width="auto" height="auto" src="./img/1.png"  />
+<img  width="auto" height="auto" src="./img/1.PNG"  />
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
