@@ -10,7 +10,7 @@
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/jfilipeferreira96/async-try-catch-country-api.git
+   git clone https://github.com/jfilipeferreira96/todo-list-vanilla-js.git
    ```
 2. You can now run the project by opening index.html
 
